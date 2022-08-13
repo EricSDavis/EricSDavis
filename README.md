@@ -12,6 +12,6 @@ Check out my...
 
 ## GitHub statistics
 
-[![Eric's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=EricSDavis)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=EricSDavis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSDavis)](https://github.com/anuraghazra/github-readme-stats)
