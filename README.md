@@ -12,9 +12,9 @@ Check out my...
 
 ## GitHub statistics
 
-[![Eric's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=EricSDavis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=EricSDavis&layout=compact&hide=html,CSS&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSDavis)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSDavis&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## [Bioconductor](https://bioconductor.org) contributions
 
