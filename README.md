@@ -23,6 +23,11 @@ Check out my...
 
 <img src="https://user-images.githubusercontent.com/31807001/184515949-7dee06c0-0cbe-4e59-8f42-172339c402b4.png" width=50% />
 
+### [3D Chromatin Structure in Chondrocytes Identifies Putative Osteoarthritis Risk Genes](https://www.biorxiv.org/content/10.1101/2022.05.16.492146v1)
+[🧵 Twitter thread](https://twitter.com/dphansti/status/1529528431930527744)
+
+<img src="https://user-images.githubusercontent.com/31807001/184516809-0c2c14de-b269-4be3-818d-93d1449bb455.png" width=50% />
+
 ## GitHub statistics 📊
 
 [![Eric's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=EricSDavis&layout=compact&hide=html,CSS&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
