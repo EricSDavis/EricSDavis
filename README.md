@@ -45,6 +45,6 @@ Check out my...
 ## Bioinformatic Pipelines 🧬
 | Pipeline | Data type(s) | Latest Version |
 |---------:|:-------------|:--------------:|
-| [_dietJuicer_](https://github.com/EricSDavis/dietJuicer) | Hi-C, Micro-C | 1.0.0 |
+| [_dietJuicer_](https://github.com/EricSDavis/dietJuicer) | Hi-C, Micro-C | [1.0.0](https://github.com/EricSDavis/dietJuicer/releases/tag/1.0.0) |
 | [_MicroC_](https://github.com/EricSDavis/MicroC) | Hi-C, Micro-C | TBD |
 | [_bagPipes_](https://github.com/ksmetz/bagPipes) | RNA-seq, ChIP-seq, ATAC-seq, CUT&RUN | TBD |
