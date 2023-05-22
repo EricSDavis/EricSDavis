@@ -8,7 +8,7 @@ Check out my...
 
 * 💾 [Software](https://github.com/EricSDavis?tab=repositories)
 * 📚 [Publications](https://orcid.org/0000-0003-4051-3217)
-* 📜 [Academic CV](https://ericscottdavis.com/img/20220224_Eric_Davis_CV.pdf)
+* 📜 [Resume](https://ericscottdavis.com/img/20220224_Eric_Davis_CV.pdf)
 
 ## Featured Publications 📚
 
