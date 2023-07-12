@@ -15,9 +15,9 @@ Check out my...
 A 90-minute Bioconductor 2023 workshop exploring Hi-C data with `mariner`, `DEseq2` and `plotgardener`. In this workshop, we use `mariner` and `DEseq2` to find differential loops in a cellular differentiation dataset. Differential loops are aggregated with `mariner` functions and visualized with `plotgardener`.
 
 ### [nullranges: Generation of nullranges via bootstrapping or covariate matching](https://ericscottdavis.com/Bioc2022nullranges)
-A 45-minute Bioconductor 2023 package demo of the `nullranges` package, co-led by Wancen Mu. In this demo, we use the covariate matching and block bootstrap functionality of `nullranges` to generate sets of null-hypothesis ranges.
+A 45-minute Bioconductor 2022 package demo of the `nullranges` package, co-led by Wancen Mu. In this demo, we use the covariate matching and block bootstrap functionality of `nullranges` to generate sets of null-hypothesis ranges.
 
-### [Using nullranges::matchranges() with BentoBox](https://ericscottdavis.com/Bioc2021)
+### [Using nullranges::matchranges() with BentoBox](https://ericscottdavis.com/Bioc2021/articles/BioC2021_lightning_talk.html)
 A 5-minute Bioconductor 2021 lightening talk demonstrating the use of `nullranges::matchRanges()` for generating covariate-matched, null-hypothesis genomic ranges and visualizing them with `plotgardener` (formerly `BentoBox`).  
 [📽️ Recording](https://youtu.be/nGQ6Y3GmYL4?t=770)  
 
