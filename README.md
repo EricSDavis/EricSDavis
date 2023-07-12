@@ -10,6 +10,17 @@ Check out my...
 * 📚 [Publications](https://orcid.org/0000-0003-4051-3217)
 * 📜 [Resume](https://ericscottdavis.com/img/resume.pdf)
 
+## Featured Workshops ⚙️
+### [Mariner: Explore the Hi-Cs](https://ericscottdavis.com/Bioc2023mariner) (_Upcoming_)
+A 90-minute Bioconductor 2023 workshop exploring Hi-C data with `mariner`, `DEseq2` and `plotgardener`. In this workshop, we use `mariner` and `DEseq2` to find differential loops in a cellular differentiation dataset. Differential loops are aggregated with `mariner` functions and visualized with `plotgardener`.
+
+### [nullranges: Generation of nullranges via bootstrapping or covariate matching](https://ericscottdavis.com/Bioc2022nullranges)
+A 45-minute Bioconductor 2023 package demo of the `nullranges` package, co-led by Wancen Mu. In this demo, we use the covariate matching and block bootstrap functionality of `nullranges` to generate sets of null-hypothesis ranges.
+
+### [Using nullranges::matchranges() with BentoBox](https://ericscottdavis.com/Bioc2021)
+A 5-minute Bioconductor 2021 lightening talk demonstrating the use of `nullranges::matchRanges()` for generating covariate-matched, null-hypothesis genomic ranges and visualizing them with `plotgardener` (formerly `BentoBox`).  
+[📽️ Recording](https://youtu.be/nGQ6Y3GmYL4?t=770)  
+
 ## Featured Publications 📚
 
 ### [Phase separation drives aberrant chromatin looping and cancer development](https://t.co/FuYhTI65U9)
