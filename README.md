@@ -11,31 +11,37 @@ Check out my...
 * 📜 [Resume](https://ericscottdavis.com/img/resume.pdf)
 
 ## Featured Workshops ⚙️
-### [Mariner: Explore the Hi-Cs](https://ericscottdavis.com/Bioc2023mariner) (_Upcoming_)
+### Mariner: Explore the Hi-Cs
+[🔗 Workshop](https://ericscottdavis.com/Bioc2023mariner) &nbsp; &nbsp; 📽️ Recording (_coming soon_)  
+
 A 90-minute Bioconductor 2023 workshop exploring Hi-C data with `mariner`, `DEseq2` and `plotgardener`. In this workshop, we use `mariner` and `DEseq2` to find differential loops in a cellular differentiation dataset. Differential loops are aggregated with `mariner` functions and visualized with `plotgardener`.
 
-### [nullranges: Generation of nullranges via bootstrapping or covariate matching](https://ericscottdavis.com/Bioc2022nullranges)
+### nullranges: Generation of nullranges via bootstrapping or covariate matching
+[🔗 Workshop](https://ericscottdavis.com/Bioc2022nullranges) &nbsp; &nbsp; [📽️ Recording](https://youtu.be/VGSDzUrvE38)  
+
 A 45-minute Bioconductor 2022 package demo of the `nullranges` package, co-led by Wancen Mu. In this demo, we use the covariate matching and block bootstrap functionality of `nullranges` to generate sets of null-hypothesis ranges.
 
-### [Using nullranges::matchranges() with BentoBox](https://ericscottdavis.com/Bioc2021/articles/BioC2021_lightning_talk.html)
+### Using nullranges::matchranges() with BentoBox
+[🔗 Workshop](https://ericscottdavis.com/Bioc2021/articles/BioC2021_lightning_talk.html) &nbsp; &nbsp; [📽️ Recording](https://youtu.be/nGQ6Y3GmYL4?t=770)    
+
 A 5-minute Bioconductor 2021 lightening talk demonstrating the use of `nullranges::matchRanges()` for generating covariate-matched, null-hypothesis genomic ranges and visualizing them with `plotgardener` (formerly `BentoBox`).  
-[📽️ Recording](https://youtu.be/nGQ6Y3GmYL4?t=770)  
+  
 
 ## Featured Publications 📚
 
-### [Phase separation drives aberrant chromatin looping and cancer development](https://t.co/FuYhTI65U9)
-[🧵 Twitter thread](https://twitter.com/dphansti/status/1407736570636124177)
+### Phase separation drives aberrant chromatin looping and cancer development
+[📓 Paper](https://t.co/FuYhTI65U9) &nbsp; &nbsp; [🧵 Twitter thread](https://twitter.com/dphansti/status/1407736570636124177)
 
 <img src="https://user-images.githubusercontent.com/31807001/184515508-39e0b56b-b665-4498-b2bf-655d66083533.png" width=50% />
 
-### [matchRanges: Generating null hypothesis genomic ranges via covariate-matched sampling](https://t.co/Ggw3RK7Wp5)
-[🧵 Twitter thread](https://twitter.com/mikelove/status/1557334149459021826) | 
+### matchRanges: Generating null hypothesis genomic ranges via covariate-matched sampling
+[📓 Paper](https://t.co/Ggw3RK7Wp5) &nbsp; &nbsp; [🧵 Twitter thread](https://twitter.com/mikelove/status/1557334149459021826) &nbsp; &nbsp; 
 [🙌 Poster](https://f1000research.com/posters/10-743)
 
 <img src="https://user-images.githubusercontent.com/31807001/184515949-7dee06c0-0cbe-4e59-8f42-172339c402b4.png" width=50% />
 
-### [3D Chromatin Structure in Chondrocytes Identifies Putative Osteoarthritis Risk Genes](https://www.biorxiv.org/content/10.1101/2022.05.16.492146v1)
-[🧵 Twitter thread](https://twitter.com/dphansti/status/1529528431930527744)
+### 3D Chromatin Structure in Chondrocytes Identifies Putative Osteoarthritis Risk Genes
+[📓 Paper](https://www.biorxiv.org/content/10.1101/2022.05.16.492146v1) &nbsp; &nbsp; [🧵 Twitter thread](https://twitter.com/dphansti/status/1529528431930527744)
 
 <img src="https://user-images.githubusercontent.com/31807001/184516809-0c2c14de-b269-4be3-818d-93d1449bb455.png" width=50% />
 
