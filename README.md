@@ -12,7 +12,7 @@ Check out my...
 
 ## Featured Workshops ⚙️
 ### Mariner: Explore the Hi-Cs
-[🔗 Workshop](https://ericscottdavis.com/Bioc2023mariner) &nbsp; &nbsp; 📽️ Recording (_coming soon_)  
+[🔗 Workshop](https://ericscottdavis.com/Bioc2023mariner) &nbsp; &nbsp; [📽️ Recording](https://youtu.be/I-wLUfiTCIA?si=SN2h0VRrhXuTPAs_)
 
 A 90-minute Bioconductor 2023 workshop exploring Hi-C data with `mariner`, `DEseq2` and `plotgardener`. In this workshop, we use `mariner` and `DEseq2` to find differential loops in a cellular differentiation dataset. Differential loops are aggregated with `mariner` functions and visualized with `plotgardener`.
 
