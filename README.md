@@ -1,8 +1,8 @@
 ## Hi I'm Eric 👋
 
-* 🎓 I recently completed my Ph.D. in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at UNC-CH.
-* 🔬 I study 3D chromatin structure and transcription in human development and disease in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
-* 🖥 I like to build software for [Bioconductor](https://www.bioconductor.org/) to analyze, visualize, and understand genomic data.
+* 🎓 I earned my Ph.D. in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at UNC-CH, where I studied 3D chromatin structure and transcription in human development and disease in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
+* 🔬 I work at [Vindhya Data Science](https://vindhyadatascience.com) as a Data Engineer/Scientist, where I help clients build and improve their scientific software ecosystem and transform their data into actionable decisions.
+* 🖥 I also like to build software for [Bioconductor](https://www.bioconductor.org/) to analyze, visualize, and understand genomic data.
 
 Check out my...
 
